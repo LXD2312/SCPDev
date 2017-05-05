@@ -1,0 +1,5 @@
+table.schemaName = "SCPDEV";
+table.tableType = COLUMNSTORE;
+table.columns = [ 
+{name = "Col1"; sqlType = VARCHAR; nullable = false; length = 20; comment = "dummy comment";}
+];
