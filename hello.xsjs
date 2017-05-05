@@ -1,2 +1,2 @@
 $.response.contentType="text/plain";
-$.response.setBody("Hello");
+$.response.setBody("Hello 2");
